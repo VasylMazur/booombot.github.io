@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lynqdemo/precache-manifest.edad36a61843373358c2d29bea5a45e3.js"
+  "/lynqdemo/precache-manifest.1a953ab7400fdb1579038c9b88ba1857.js"
 );
 
 self.addEventListener('message', (event) => {
